@@ -1,4 +1,4 @@
-# Excel Natural Language Add-in Challenge (Mac OSX)
+# Excel Natural Language Add-in Challenge (Windows)
 
 ## Overview
 Create a Windows Excel add-in that can generate and modify Excel tables using natural language commands. This challenge is designed to test your ability to work with potentially challenging APIs, create scalable architecture, and deliver a functional product within constraints.
@@ -10,7 +10,7 @@ Time Limit: 48 hours
 ### Technical Stack
 - Language: Python (C# or Typescript Optional for creating UI)
 - LLM Integration: Claude (key will be provided). Documentation [here](https://docs.anthropic.com/en/api/models-list) and tool calling [here](https://docs.anthropic.com/en/docs/build-with-claude/tool-use)
-- Platform: MacOS Excel
+- Platform: Windows
 
 ### Core Features (Required)
 1. Natural Language Table Generation
